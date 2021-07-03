@@ -1,6 +1,6 @@
 {
   "files": {
-    "/static/css/index.80d44b26.css": "/static/css/index.80d44b26.css",
+    "/static/css/index.72b4a1ea.css": "/static/css/index.72b4a1ea.css",
     "/static/js/index.e1ca6dbd.js": "/static/js/index.e1ca6dbd.js",
     "/static/js/runtime-index.380612e5.js": "/static/js/runtime-index.380612e5.js",
     "/static/js/110.e4bb96a3.js": "/static/js/110.e4bb96a3.js",
@@ -14,12 +14,12 @@
   "entrypoints": [
     "static/js/runtime-index.380612e5.js",
     "static/js/110.e4bb96a3.js",
-    "static/css/index.80d44b26.css",
+    "static/css/index.72b4a1ea.css",
     "static/js/index.e1ca6dbd.js"
   ],
   "entrypointsMap": [],
   "staticFiles": [
-    "/static/css/index.80d44b26.css",
+    "/static/css/index.72b4a1ea.css",
     "/static/js/index.e1ca6dbd.js",
     "/static/js/runtime-index.380612e5.js",
     "/static/js/110.e4bb96a3.js",
