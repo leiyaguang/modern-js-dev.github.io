@@ -1,22 +1,22 @@
-{
-  "routes": [
-    {
-      "domains": [],
-      "urlPath": "/index",
-      "isSpa": true,
-      "entryPath": "/index.html",
-      "isSSR": false,
-      "isCustomServer": false,
-      "bundle": "",
-      "disableStream": true,
-      "useI18n": false,
-      "extra": {
-        "entryName": "index",
-        "loadableManifest": "",
-        "bundle": ""
-      },
-      "specialHeader": [],
-      "enableModernMode": false
-    }
-  ]
+
+  {
+    "common": {
+        "statusPages": {
+            "404": "404.html"
+        }
+    },
+    "routes": [
+        {
+            "isApi": false,
+            "entryPath": "./",
+            "isSpa": false,
+            "authUrl": "",
+            "isGarr": false,
+            "isSSR": false,
+            "redirect": "",
+            "regexDomain": false
+        }
+    ]
 }
+
+  
